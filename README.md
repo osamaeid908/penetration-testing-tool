@@ -5,10 +5,6 @@
 
 ---
 
-![Penetration Testing Tool Banner](https://via.placeholder.com/1200x400?text=Penetration+Testing+Tool+%7C+Python+Based+%7C+Quick+Scan)
-
----
-
 ## 🔍 Overview
 
 **Penetration Testing Tool** is a Python-based tool developed by Osama Eid that focuses on rapid scanning and vulnerability assessment. This tool repurposes various security testing techniques into a cohesive, quick-scanning solution, designed to streamline the detection of system vulnerabilities.
@@ -26,7 +22,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/penetration-testing-tool.git
+git clone https://github.com/osamaeid908/penetration-testing-tool
 
 # Navigate into the directory
 cd penetration-testing-tool
